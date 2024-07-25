@@ -141,7 +141,7 @@ We extend our heartfelt gratitude to the following individuals and communities f
 ---
 
 
-
+Ark Survival Ascended Blender Mesh UV Addon
 Copyright (C) 2024  JL
 
 This program is free software: you can redistribute it and/or modify
